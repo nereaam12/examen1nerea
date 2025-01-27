@@ -1,0 +1,6 @@
+ID,Nombre,Edad,Email,Teléfono
+1,Ana López,34,ana.lopez@example.com,555-1234
+2,Juan Pérez,28,juan.perez@dominio.com,444-5678
+3,Maria García,41,maria.garcia@example.com,444-8765
+4,Pedro Ruiz,36,pedro.ruiz@dominio.com,555-4321
+5,Lucía Torres,29,lucia.torres@example.com,555-6789

@@ -1,0 +1,12 @@
+Encuentra todos los registros de personas con el nombre "Juan".
+Extraer el campo de correos electrónicos con cut
+Extraer el campo de correos electrónicos con awk
+Cuenta cuántas personas están registradas en el archivo
+Cuenta cuántas personas tienen el dominio example.com
+Nombre de las personas que su teléfono empieza por 444
+Saca las edades de las personas ordenadas
+Sacar los registros del 2 al 4
+Reemplazar "555" en los números de teléfono con "999"
+Encontrar a todas las personas con edades mayores de 30 años, extraer su nombre y correo electrónico, y mostrar los resultados ordenados alfabéticamente por nombre.
+Transforma el archivo para que los campos se separen con un | en lugar de comas.
+
